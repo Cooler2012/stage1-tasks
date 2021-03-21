@@ -322,3 +322,6 @@ body {
     height: 40px;
   }
 }
+.piano-key.sharp.active, .active, .active:active, .active:hover {
+	background-color: yellowgreen;
+}
